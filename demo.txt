@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 finfhfjf
+=======
+not only hello 
+>>>>>>> 1a398ca549c8e6e84eb82a31c8c5f643787abce8
